@@ -12,6 +12,8 @@ Running Jekyll - https://github.com/KetiBochorishvili/Portfolio/issues/3
 
 Adding Post - https://github.com/KetiBochorishvili/Portfolio/issues/4
 
+Full Docs - https://ketevani.com/Documentation/docs.html
+
 
 
 
