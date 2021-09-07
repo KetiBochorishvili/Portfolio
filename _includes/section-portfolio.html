@@ -20,9 +20,19 @@
     </div>
   </div>
 
+  <!-- <div class="container">
+    <div class="row">
+      {% if site.posts.size > 0 %}
+        {% for post in site.posts offset:0 limit:3 %}
+          {% include article.html %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div> -->
+
   <div class="portfolio__gallery animate">
     <div class="container">
-      <div class="row">
+      <!-- <div class="row">
         {% for photo in site.data.settings.portfolio.portfolio__gallery %}
         <div class="col col-4 col-d-6 col-t-12">
           <div class="portfolio__item">
@@ -33,7 +43,21 @@
            </div>
         </div>
         {% endfor %}
+      </div> -->
+
+        <div class="row">
+        {% for post in site.posts %}
+        <div class="col col-4 col-d-6 col-t-12">
+          <div class="portfolio__item">
+            <a href="{{post.url}}" class="portfolio__link" data-glightbox='title: {{photo.title}}; description: {{photo.description}}; descPosition: bottom;'>
+              <span class="portfolio__icon"><i class="ion ion-ios-eye"></i></span>
+              <img data-src="{{post.image}}" class="portfolio__image lazy" alt="{{photo.title}}">
+            </a>
+           </div>
+        </div>
+        {% endfor %}
       </div>
+
     </div>
   </div>
 
