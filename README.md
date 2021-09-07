@@ -4,6 +4,16 @@ Url - https://ketevani.com/
 
 
 
+Installing System - https://github.com/KetiBochorishvili/Portfolio/issues/1
+
+Installing Jekyll - https://github.com/KetiBochorishvili/Portfolio/issues/2
+
+Running Jekyll - https://github.com/KetiBochorishvili/Portfolio/issues/3
+
+Adding Post - https://github.com/KetiBochorishvili/Portfolio/issues/4
+
+
+
 
 # Clancy is an elegant portfolio theme for Jekyll
 
