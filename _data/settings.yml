@@ -26,7 +26,7 @@ menu__settings:
 # Hero Settings
 hero:
   hero__title: Hello, my name’s Keti.
-  hero__description: I'm building unique and beautiful data visualizations.
+  hero__description: Building unique and beautiful data visualizations.
 
 
 #-------------------------------
@@ -84,7 +84,7 @@ mailchimp:
 # Footer Settings
 social:
 - {icon: "ion-logo-github", color: "#55acee", label: Github, link: "https://github.com/KetiBochorishvili"}
-- {icon: "ion-logo-google", color: "#55acee", label: Email, link: "mailto:ketevani.boch@gmail.com"}
+- {icon: "ion-logo-google", color: "#55acee", label: Gmail, link: "mailto:ketevani.boch@gmail.com"}
 # - {icon: "ion-logo-linkedin", color: "#55acee", label: Linkedin, link: "https://linkedin.com"}
 # - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
 # - {icon: "ion-logo-facebook", color: "#3b5999", label: Facebook, link: "https://facebook.com"}
