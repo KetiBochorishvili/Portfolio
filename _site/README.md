@@ -1,3 +1,10 @@
+# Site and instructions
+
+Url - https://ketevani.com/
+
+
+
+
 # Clancy is an elegant portfolio theme for Jekyll
 
 Clancy is an elegant portfolio theme for Jekyll designed for photographers, designers, illustrators, artists, creatives, etc. This theme will help you professionally introduce yourself to your visitors and showcase your work in a minimalistic style. This super clean and fully optimized theme can be easily customized to suit your needs.
