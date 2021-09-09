@@ -5,9 +5,105 @@
         <description></description>
         <link>https://ketevani.com/</link>
         <atom:link href="https://ketevani.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Sep 2021 08:51:09 -0700</pubDate>
-        <lastBuildDate>Thu, 09 Sep 2021 08:51:09 -0700</lastBuildDate>
+        <pubDate>Thu, 09 Sep 2021 13:34:57 -0700</pubDate>
+        <lastBuildDate>Thu, 09 Sep 2021 13:34:57 -0700</lastBuildDate>
         <generator>Jekyll v4.2.0</generator>
+        
+            <item>
+                <title>Tech Survey Scatterplot</title>
+                <description>&lt;p&gt;Visualizing responses through time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects/scatterplot-purple/preview.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve visualized Tech Survey 2020 responses through time.&lt;/p&gt;
+
+&lt;p&gt;On the x axis I’ve used adjusted logarithmic scale in order to improve visibility.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/projects/glowing-bar-scatter/thumbnail.webp&quot; /&gt;
+    
+  &lt;/div&gt;
+  &lt;em&gt;Gallery&lt;/em&gt;
+&lt;/div&gt;
+
+</description>
+                <pubDate>Sat, 04 Sep 2021 05:01:35 -0700</pubDate>
+                <link>https://ketevani.com/project/glowing-bars-scatter</link>
+                <guid isPermaLink="true">https://ketevani.com/project/glowing-bars-scatter</guid>
+                
+                <category>d3</category>
+                
+                <category>scatterplot</category>
+                
+                <category>light</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Tech Survey Scatterplot</title>
+                <description>&lt;p&gt;Visualizing responses through time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects/scatterplot-purple/preview.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve visualized Tech Survey 2020 responses through time.&lt;/p&gt;
+
+&lt;p&gt;On the x axis I’ve used adjusted logarithmic scale in order to improve visibility.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/projects/bars-update/thumbnail.webp&quot; /&gt;
+    
+  &lt;/div&gt;
+  &lt;em&gt;Gallery&lt;/em&gt;
+&lt;/div&gt;
+
+</description>
+                <pubDate>Sat, 03 Jul 2021 05:01:35 -0700</pubDate>
+                <link>https://ketevani.com/project/bars-update</link>
+                <guid isPermaLink="true">https://ketevani.com/project/bars-update</guid>
+                
+                <category>d3</category>
+                
+                <category>scatterplot</category>
+                
+                <category>light</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Tech Survey Scatterplot</title>
+                <description>&lt;p&gt;Visualizing responses through time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects/scatterplot-purple/preview.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve visualized Tech Survey 2020 responses through time.&lt;/p&gt;
+
+&lt;p&gt;On the x axis I’ve used adjusted logarithmic scale in order to improve visibility.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/projects/overlapping-bar-chart/thumbnail.webp&quot; /&gt;
+    
+  &lt;/div&gt;
+  &lt;em&gt;Gallery&lt;/em&gt;
+&lt;/div&gt;
+
+</description>
+                <pubDate>Mon, 07 Jun 2021 05:01:35 -0700</pubDate>
+                <link>https://ketevani.com/project/overlapping-bar-chart</link>
+                <guid isPermaLink="true">https://ketevani.com/project/overlapping-bar-chart</guid>
+                
+                <category>d3</category>
+                
+                <category>scatterplot</category>
+                
+                <category>light</category>
+                
+                
+            </item>
         
             <item>
                 <title>Tech Survey Scatterplot</title>
@@ -47,7 +143,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/projects/bar-chart-gradient/preview.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I’ve visualized average monthly revenue of developers grouped according to their experience and gender.&lt;/p&gt;
+&lt;p&gt;I’ve visualized average monthly revenue of male and female developers grouped according to their experience.&lt;/p&gt;
 
 &lt;div class=&quot;gallery-box&quot;&gt;
   &lt;div class=&quot;gallery&quot;&gt;

@@ -10,7 +10,7 @@ Visualizing responses of developers with different experience.
 ![](/images/projects/bar-chart-gradient/preview.gif)
 
 
-I've visualized average monthly revenue of developers grouped according to their experience and gender. 
+I've visualized average monthly revenue of male and female developers grouped according to their experience. 
 
 <div class="gallery-box">
   <div class="gallery">
