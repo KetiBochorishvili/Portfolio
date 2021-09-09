@@ -3,11 +3,11 @@
     <channel>
         <title></title>
         <description></description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Sep 2021 16:46:00 +0400</pubDate>
-        <lastBuildDate>Tue, 07 Sep 2021 16:46:00 +0400</lastBuildDate>
-        <generator>Jekyll v3.8.4</generator>
+        <link>https://ketevani.com/</link>
+        <atom:link href="https://ketevani.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 09 Sep 2021 08:51:09 -0700</pubDate>
+        <lastBuildDate>Thu, 09 Sep 2021 08:51:09 -0700</lastBuildDate>
+        <generator>Jekyll v4.2.0</generator>
         
             <item>
                 <title>Tech Survey Scatterplot</title>
@@ -28,13 +28,43 @@
 &lt;/div&gt;
 
 </description>
-                <pubDate>Wed, 21 Apr 2021 16:01:35 +0400</pubDate>
-                <link>http://localhost:4000/project/purple-scatterplot</link>
-                <guid isPermaLink="true">http://localhost:4000/project/purple-scatterplot</guid>
+                <pubDate>Wed, 21 Apr 2021 05:01:35 -0700</pubDate>
+                <link>https://ketevani.com/project/purple-scatterplot</link>
+                <guid isPermaLink="true">https://ketevani.com/project/purple-scatterplot</guid>
                 
                 <category>d3</category>
                 
                 <category>scatterplot</category>
+                
+                <category>light</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Tech Survey Grouping Bar Chart</title>
+                <description>&lt;p&gt;Visualizing responses of developers with different experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/projects/bar-chart-gradient/preview.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve visualized average monthly revenue of developers grouped according to their experience and gender.&lt;/p&gt;
+
+&lt;div class=&quot;gallery-box&quot;&gt;
+  &lt;div class=&quot;gallery&quot;&gt;
+    &lt;img src=&quot;/images/projects/bar-chart-gradient/thumbnail.png&quot; /&gt;
+    
+  &lt;/div&gt;
+  &lt;em&gt;Gallery&lt;/em&gt;
+&lt;/div&gt;
+
+</description>
+                <pubDate>Sat, 13 Mar 2021 05:15:35 -0800</pubDate>
+                <link>https://ketevani.com/project/grouping-bar-chart</link>
+                <guid isPermaLink="true">https://ketevani.com/project/grouping-bar-chart</guid>
+                
+                <category>d3</category>
+                
+                <category>bar</category>
                 
                 <category>light</category>
                 
