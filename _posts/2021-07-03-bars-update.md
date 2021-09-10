@@ -5,25 +5,24 @@ date:   2021-07-03 15:01:35 +0300
 image:  '/images/projects/bars-update/thumbnail.webp'
 tags:   [d3, bar, update, dark]
 ---
-Update visualization based on work type of respodents.
+Update visualization based on the work type of respodents.
 
-![](/images/projects/scatterplot-purple/preview.gif)
+![](/images/projects/bars-update/preview.gif)
 
 
-I've visualized Tech Survey 2020 responses through time.
+I've visualized average monthly revelue of Tech Survey 2020 respodents.
 
-On the x axis I've used adjusted logarithmic scale in order to improve visibility.
+Initial visualization is given for the pooled data and can be updated for the group of different work type respodents.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/bars-update/1.png">
-    <img src="/images/projects/bars-update/2.png">
     <img src="/images/projects/bars-update/8.png">
     <img src="/images/projects/bars-update/7.png">
     <img src="/images/projects/bars-update/6.png">
     <img src="/images/projects/bars-update/5.png">
     <img src="/images/projects/bars-update/4.png">
     <img src="/images/projects/bars-update/3.png">
+     <img src="/images/projects/bars-update/2.png">
   </div>
   <em>Gallery</em>
 </div>

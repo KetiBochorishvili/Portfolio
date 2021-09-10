@@ -5,12 +5,12 @@ date:   2021-06-07 15:01:35 +0300
 image:  '/images/projects/overlapping-bar-chart/thumbnail.webp'
 tags:   [d3, bar, dark]
 ---
-Overlapping Vizualization of Responses.
+Overlapping vizualization of responses.
 
 ![](/images/projects/overlapping-bar-chart/preview.gif)
 
 
-I've grouped data based on the experience of the respodents and visualized their average monthly revenue as opposed to their deserved salary.
+I've grouped data based on the experiences of the respodents and visualized their average monthly revenue as opposed to their deserved salary.
 
 
 <div class="gallery-box">

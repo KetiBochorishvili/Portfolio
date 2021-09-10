@@ -10,9 +10,9 @@ Visualizing exchange rates of GEL, USD, TRY through time.
 ![](/images/projects/glowing-bar-scatter/preview.gif)
 
 
-I've visualized Tech Survey 2020 responses through time.
+I've visualized exchange rates as cost of base currency over time. 
 
-On the x axis I've used adjusted logarithmic scale in order to improve visibility.
+Initially base currency is USD that can be replaced with GEL or TRY and update the visualization. 
 
 <div class="gallery-box">
   <div class="gallery">
