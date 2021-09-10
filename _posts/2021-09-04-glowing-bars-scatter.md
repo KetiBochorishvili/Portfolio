@@ -7,7 +7,7 @@ tags:   [d3, scatterplot, light]
 ---
 Visualizing responses through time.
 
-![](/images/projects/scatterplot-purple/preview.gif)
+![](/images/projects/glowing-bar-scatter/preview.gif)
 
 
 I've visualized Tech Survey 2020 responses through time.
