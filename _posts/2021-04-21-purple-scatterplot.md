@@ -2,7 +2,7 @@
 layout: post
 title:  Tech Survey Scatterplot
 date:   2021-04-21 15:01:35 +0300
-image:  '/images/projects/scatterplot-purple/thumbnail.png'
+image:  '/images/projects/scatterplot-purple/thumbnail.webp'
 tags:   [d3, scatterplot, light]
 ---
 Visualizing responses through time.

@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Tech Survey Scatterplot
+title:  Currency Exchange Rates Visualization
 date:   2021-09-04 15:01:35 +0300
 image:  '/images/projects/glowing-bar-scatter/thumbnail.webp'
-tags:   [d3, scatterplot, light]
+tags:   [d3, bar, update, dark]
 ---
-Visualizing responses through time.
+Visualizing exchange rates of GEL, USD, TRY through time.
 
 ![](/images/projects/glowing-bar-scatter/preview.gif)
 
@@ -16,8 +16,11 @@ On the x axis I've used adjusted logarithmic scale in order to improve visibilit
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/glowing-bar-scatter/thumbnail.webp">
-    
+    <img src="/images/projects/glowing-bar-scatter/1.png">
+     <img src="/images/projects/glowing-bar-scatter/2.png">
+        <img src="/images/projects/glowing-bar-scatter/3.png">
+           <img src="/images/projects/glowing-bar-scatter/4.png">
+            
   </div>
   <em>Gallery</em>
 </div>
