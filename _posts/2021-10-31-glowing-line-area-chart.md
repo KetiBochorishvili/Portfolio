@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Covid-19 New Cases and Deats
+title:  Covid-19 New Cases and Deaths
 date:   2021-10-31 15:01:35 +0300
 image:  '/images/projects/glowing-line-area-chart/thumbnail.webp'
 tags:   [d3, line, area, update, dark]
 ---
-Covid-19 new cases and deats line and area chart.
+Covid-19 new cases and deaths line and area chart.
 
 
 
