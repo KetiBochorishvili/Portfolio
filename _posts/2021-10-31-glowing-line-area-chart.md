@@ -8,7 +8,7 @@ tags:   [d3, line, area, update, dark]
 Covid-19 new cases and deaths line and area chart.
 
 
-<iframe src="https://ketibochorishvili.github.io/Line-Chart-Covid-19/glowingLineChart.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="20px" marginwidth="0px" height="750px" width="1100px" allowfullscreen></iframe>
+![](/images/projects/glowing-line-area-chart/preview.gif)
 
 The graph is linked to the online data and updates on a daily basis.
 
