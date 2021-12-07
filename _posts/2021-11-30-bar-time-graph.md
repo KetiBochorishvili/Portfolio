@@ -10,7 +10,7 @@ Chart with dual Y axis
 
 ![](/images/projects/bar-time-graph/preview.gif)
 
-The visualization with two Y axis is a combination of bar chart and line/area charts that reflect three different data in a convinient way. 
+The visualization with two Y axis is a combination of bar chart and line/area charts that reflect three different datas in a convenient way. 
 
 <div class="gallery-box">
   <div class="gallery">
