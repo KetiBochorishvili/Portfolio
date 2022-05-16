@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  Tech Survey Bar Chart
 date:   2021-03-13 16:15:35 +0300
@@ -10,7 +10,7 @@ Visualizing responses of developers with different experiences.
 ![](/images/projects/bar-chart-gradient/preview.gif)
 
 
-I've visualized average monthly revenue of male (red bars) and female (white bars) developers grouped according to their experiences. 
+I've visualized average monthly revenue of male (red bars) and female (white bars) developers grouped according to their experiences.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -20,4 +20,4 @@ I've visualized average monthly revenue of male (red bars) and female (white bar
   <em>Gallery</em>
 </div>
 
-
+ -->
