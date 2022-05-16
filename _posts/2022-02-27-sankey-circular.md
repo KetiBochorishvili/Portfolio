@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circular Economy Sankey Chart
-date: 2022-05-01 15:01:35 +0300
+date: 2022-02-27 15:01:35 +0300
 image: "/images/projects/sankey-circular/thumbnail.webp"
 tags: [d3, light, sankey]
 ---
