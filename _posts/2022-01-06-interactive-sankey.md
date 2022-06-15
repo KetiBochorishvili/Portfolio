@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interactive Sankey
-date: 2021-04-25 15:01:35 +0300
+date: 2022-01-06 15:01:35 +0300
 image: "/images/projects/interactive-sankey/thumbnail.webp"
 tags: [d3, sankey, light]
 ---
