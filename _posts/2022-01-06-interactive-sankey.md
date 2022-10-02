@@ -6,8 +6,9 @@ image: "/images/projects/interactive-sankey/thumbnail.webp"
 tags: [d3, sankey, light]
 ---
 
-<video width="100%" autoplay muted autoreply loop> <source src="/images/projects/interactive-sankey/sankey.mp4"></video>
 Sankey chart visualizes flows among different nodes.
+
+<video width="100%" autoplay muted autoreply loop> <source src="/images/projects/interactive-sankey/sankey.mp4"></video>
 
 The clicked nodes and related links are highlighted for better visibility.
 
