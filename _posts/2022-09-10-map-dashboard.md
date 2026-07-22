@@ -3,7 +3,9 @@ layout: post
 title: Map Dashboard
 date: 2022-09-10 15:01:35 +0300
 image: "/images/projects/dashboard-map/thumbnail.webp"
+video: "/images/projects/dashboard-map/dashboard-video.mp4"
 tags: [d3, mapbox, light, map]
+category: [Geospatial, Dashboards]
 ---
 
 Dashboard with map, filters and informative panels

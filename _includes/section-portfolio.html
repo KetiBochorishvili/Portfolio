@@ -18,6 +18,33 @@
         </div>
       </div>
     </div>
+
+    <div class="row">
+      <div class="col col-12">
+        <div class="portfolio__filters">
+          <button class="portfolio__filter is-active" data-filter="all">
+            <span class="portfolio__filter-icon"><i class="ion ion-ios-apps"></i></span>
+            <span class="portfolio__filter-text">All</span>
+          </button>
+          <button class="portfolio__filter" data-filter="applications">
+            <span class="portfolio__filter-icon"><i class="ion ion-ios-desktop"></i></span>
+            <span class="portfolio__filter-text">Applications</span>
+          </button>
+          <button class="portfolio__filter" data-filter="dashboards">
+            <span class="portfolio__filter-icon"><i class="ion ion-ios-browsers"></i></span>
+            <span class="portfolio__filter-text">Dashboards</span>
+          </button>
+          <button class="portfolio__filter" data-filter="visualizations">
+            <span class="portfolio__filter-icon"><i class="ion ion-ios-stats"></i></span>
+            <span class="portfolio__filter-text">Visualizations</span>
+          </button>
+          <button class="portfolio__filter" data-filter="geospatial">
+            <span class="portfolio__filter-icon"><i class="ion ion-ios-globe"></i></span>
+            <span class="portfolio__filter-text">Geospatial</span>
+          </button>
+        </div>
+      </div>
+    </div>
   </div>
 
   <!-- <div class="container">
@@ -45,13 +72,17 @@
         {% endfor %}
       </div> -->
 
-        <div class="row">
+        <div class="row portfolio__grid">
         {% for post in site.posts %}
-        <div class="col col-4 col-d-6 col-t-12">
+        <div class="col col-4 col-d-6 col-t-12 portfolio__col" data-category="{{ post.category | join: ' ' | downcase }}">
           <div class="portfolio__item">
             <a href="{{post.url}}" class="portfolio__link" data-glightbox='title: {{photo.title}}; description: {{photo.description}}; descPosition: bottom;'>
               <span class="portfolio__icon"><i class="ion ion-ios-eye"></i></span>
-              <img data-src="{{post.image}}" class="portfolio__image lazy" alt="{{photo.title}}">
+              {% if post.video %}
+                <video class="portfolio__image" src="{{post.video}}" autoplay muted loop playsinline></video>
+              {% else %}
+                <img data-src="{{post.image}}" class="portfolio__image lazy" alt="{{photo.title}}">
+              {% endif %}
             </a>
            </div>
         </div>

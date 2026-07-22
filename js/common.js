@@ -127,6 +127,50 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   /* =======================
+  // Cover Videos
+  ======================= */
+  document.querySelectorAll('.portfolio__item video.portfolio__image, .article__image video').forEach(video => {
+    const tryPlay = () => video.play().catch(() => {});
+
+    if (video.readyState >= 2) {
+      tryPlay();
+    } else {
+      video.addEventListener('loadeddata', tryPlay, { once: true });
+    }
+  });
+
+
+  /* =======================
+  // Portfolio Filters
+  ======================= */
+  const portfolioFilters = document.querySelectorAll('.portfolio__filter'),
+    portfolioItems = document.querySelectorAll('.portfolio__col');
+
+  portfolioFilters.forEach(filter => {
+    filter.addEventListener('click', () => {
+      portfolioFilters.forEach(btn => btn.classList.remove('is-active'));
+      filter.classList.add('is-active');
+
+      const value = filter.getAttribute('data-filter');
+
+      portfolioItems.forEach(item => {
+        const categories = (item.getAttribute('data-category') || '').split(' ');
+        const matches = value === 'all' || categories.includes(value);
+
+        item.classList.remove('is-visible');
+
+        if (matches) {
+          item.classList.remove('is-hidden');
+          requestAnimationFrame(() => item.classList.add('is-visible'));
+        } else {
+          item.classList.add('is-hidden');
+        }
+      });
+    });
+  });
+
+
+  /* =======================
   // Scroll Top Button
   ======================= */
   window.addEventListener("scroll", function () {

@@ -4,6 +4,7 @@ title: Tech Survey Updatable Bar Chart
 date: 2021-07-03 15:01:35 +0300
 image: "/images/projects/bars-update/thumbnail.webp"
 tags: [d3, bar, update, dark]
+category: [Visualizations]
 ---
 
 Update visualization based on the work type of respodents.

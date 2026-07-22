@@ -4,6 +4,7 @@ title: Charts
 date: 2023-08-13 thu 15:01:35 +0300
 image: "/images/projects/visualizations/thumbnail.webp"
 tags: [d3, bar, pie, line]
+category: [Visualizations]
 ---
 
 Charts

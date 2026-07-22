@@ -16,3 +16,8 @@ vendor/
 *.swp
 *.swo
 *~
+
+# Raw/backup video sources (kept locally, not deployed)
+images/projects/**/*-original.mp4
+images/projects/**/*-backup.mp4
+images/projects/etf-insider/etfInsiderNew.mp4

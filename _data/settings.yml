@@ -25,8 +25,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Keti.
-  hero__description: Building unique and beautiful data visualizations.
+  hero__title: Software Engineer |<br>Data Visualization Expert
+  hero__description: I am Keti, building intelligent digital experiences
 
 
 #-------------------------------

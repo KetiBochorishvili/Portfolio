@@ -4,6 +4,7 @@ title:  Currency Exchange Rates Visualization
 date:   2021-09-04 15:01:35 +0300
 image:  '/images/projects/glowing-bar-scatter/thumbnail.webp'
 tags:   [d3, bar, update, dark]
+category: [Visualizations]
 ---
 Visualizing exchange rates of GEL, USD, TRY through time.
 
