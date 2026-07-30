@@ -3,6 +3,7 @@ layout: post
 title: Interactive Sankey
 date: 2022-01-06 15:01:35 +0300
 image: "/images/projects/interactive-sankey/thumbnail.webp"
+video: "/images/projects/interactive-sankey/sankey.mp4"
 tags: [d3, sankey, light]
 category: [Visualizations]
 ---

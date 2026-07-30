@@ -21,3 +21,8 @@ vendor/
 images/projects/**/*-original.mp4
 images/projects/**/*-backup.mp4
 images/projects/etf-insider/etfInsiderNew.mp4
+
+# Superseded by mp4 versions, kept locally as originals, not deployed
+images/projects/glowing-line-area-chart/preview.gif
+images/projects/glowing-bar-scatter/preview.gif
+images/projects/bars-update/preview.gif

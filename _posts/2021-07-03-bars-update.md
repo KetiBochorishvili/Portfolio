@@ -3,13 +3,14 @@ layout: post
 title: Tech Survey Updatable Bar Chart
 date: 2021-07-03 15:01:35 +0300
 image: "/images/projects/bars-update/thumbnail.webp"
+video: "/images/projects/bars-update/preview.mp4"
 tags: [d3, bar, update, dark]
 category: [Visualizations]
 ---
 
 Update visualization based on the work type of respodents.
 
-![](/images/projects/bars-update/preview.gif)
+<video width="100%" autoplay muted autoreply loop> <source src="/images/projects/bars-update/preview.mp4"></video>
 
 I've visualized average monthly revenue of Tech Survey 2020 respodents.
 
