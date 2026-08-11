@@ -1,7 +1,7 @@
 ---
 layout: post
 title: US Life Expactancy and Population 
-date: 2026-08-12 15:01:35 +0300
+date: 2026-08-10 15:01:35 +0300
 image: "/images/projects/beeswarm/thumbnail.webp"
 video: "/images/projects/beeswarm/beeswarm.mp4"
 tags: [ beeswarm, radial, dark]
